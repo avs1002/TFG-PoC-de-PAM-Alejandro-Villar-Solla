@@ -1,0 +1,13 @@
+PAM360 máquina:
+
+Acceso a Windows:
+admin:admin
+
+Acceso PAM:
+admin:n90W4)^<
+
+Windows10_Cliente máquina
+
+Acceso Windows
+
+WINDOWS10CLIENT\cliente : admin
